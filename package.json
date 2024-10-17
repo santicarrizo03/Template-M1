@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^5.1.0",
+    "jasmine": "^5.4.0",
     "live-server": "^1.2.2"
   }
 }
